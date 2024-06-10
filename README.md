@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
 | [2048-build-array-from-permutation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2048-build-array-from-permutation) |
 # Divide and Conquer
 |  |
@@ -35,7 +36,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
