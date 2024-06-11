@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0898-transpose-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
 | [2048-build-array-from-permutation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2048-build-array-from-permutation) |
 # Divide and Conquer
@@ -19,6 +20,7 @@
 # Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2048-build-array-from-permutation) |
 # Two Pointers
 |  |
@@ -45,3 +47,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
+# Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0898-transpose-matrix) |
