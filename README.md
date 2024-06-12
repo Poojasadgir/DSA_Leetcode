@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0898-transpose-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
@@ -25,6 +26,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 # Binary Search
 |  |
@@ -37,6 +39,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
 # Heap (Priority Queue)
