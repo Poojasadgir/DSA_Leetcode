@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -17,6 +18,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 # Simulation
 |  |
@@ -26,6 +28,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 # Binary Search
@@ -54,3 +57,11 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0898-transpose-matrix) |
+# Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
