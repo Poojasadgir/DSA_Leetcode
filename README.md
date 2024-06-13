@@ -11,6 +11,7 @@
 | [0898-transpose-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
 | [2048-build-array-from-permutation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -65,3 +67,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
