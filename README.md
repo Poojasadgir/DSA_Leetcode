@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1137-height-checker](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -71,3 +72,11 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0242-valid-anagram) |
+# String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0242-valid-anagram) |
