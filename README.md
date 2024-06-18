@@ -21,6 +21,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1013-fibonacci-number) |
 # Simulation
 |  |
 | ------- |
@@ -80,3 +81,15 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0242-valid-anagram) |
+# Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1013-fibonacci-number) |
