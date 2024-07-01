@@ -103,3 +103,10 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
