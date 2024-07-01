@@ -109,4 +109,8 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
