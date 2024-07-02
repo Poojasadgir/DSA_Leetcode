@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Math
 |  |
@@ -118,8 +119,21 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
