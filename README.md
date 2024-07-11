@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
@@ -117,6 +118,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2383-add-two-integers) |
 ## Two Pointers
