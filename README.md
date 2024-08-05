@@ -118,6 +118,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -144,6 +145,7 @@
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Linked List
 |  |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
