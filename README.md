@@ -114,6 +114,7 @@
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
+| [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
