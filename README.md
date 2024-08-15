@@ -118,6 +118,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
