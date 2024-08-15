@@ -130,6 +130,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2383-add-two-integers) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -228,4 +230,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
