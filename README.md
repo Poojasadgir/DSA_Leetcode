@@ -112,6 +112,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -236,6 +238,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0051-n-queens) |
 ## Sliding Window
@@ -250,6 +253,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
