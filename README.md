@@ -201,6 +201,7 @@
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
 |  |
@@ -216,6 +217,7 @@
 | [0125-valid-palindrome](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [1205-defanging-an-ip-address](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
