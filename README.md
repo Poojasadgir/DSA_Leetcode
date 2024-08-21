@@ -119,6 +119,7 @@
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
