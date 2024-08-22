@@ -162,6 +162,7 @@
 | [0088-merge-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -179,6 +180,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
