@@ -163,6 +163,7 @@
 | [0125-valid-palindrome](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -247,6 +248,7 @@
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -254,12 +256,14 @@
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
