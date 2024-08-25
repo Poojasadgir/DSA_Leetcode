@@ -331,13 +331,23 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
