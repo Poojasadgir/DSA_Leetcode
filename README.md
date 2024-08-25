@@ -133,6 +133,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -305,6 +306,7 @@
 | [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
