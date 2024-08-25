@@ -179,6 +179,7 @@
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Linked List
