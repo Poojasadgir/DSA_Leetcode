@@ -145,6 +145,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -231,11 +232,13 @@
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## String
 |  |
 | ------- |
