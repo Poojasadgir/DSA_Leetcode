@@ -118,6 +118,7 @@
 | [0051-n-queens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -223,6 +225,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
