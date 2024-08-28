@@ -152,6 +152,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -226,6 +227,7 @@
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
