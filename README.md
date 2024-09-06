@@ -137,6 +137,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
@@ -344,6 +345,7 @@
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
+| [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
@@ -368,12 +370,14 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
+| [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
+| [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
