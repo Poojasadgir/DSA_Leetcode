@@ -132,6 +132,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -251,6 +252,7 @@
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
@@ -338,6 +340,7 @@
 | [0040-combination-sum-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Matrix
 |  |
 | ------- |
@@ -436,4 +440,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
