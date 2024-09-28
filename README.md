@@ -284,6 +284,7 @@
 | [0657-robot-return-to-origin](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0742-to-lower-case](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
