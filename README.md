@@ -157,6 +157,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2690-house-robber-iv](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2690-house-robber-iv) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -232,6 +233,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2690-house-robber-iv](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2690-house-robber-iv) |
 ## Sorting
 |  |
 | ------- |
