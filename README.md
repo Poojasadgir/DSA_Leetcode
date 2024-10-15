@@ -193,6 +193,7 @@
 | [0541-reverse-string-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
