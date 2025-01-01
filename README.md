@@ -126,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -172,6 +173,7 @@
 | [0062-unique-paths](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
@@ -191,6 +193,7 @@
 | [0125-valid-palindrome](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
