@@ -130,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -248,6 +249,7 @@
 | [0035-search-insert-position](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0441-arranging-coins) |
