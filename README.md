@@ -335,6 +335,7 @@
 | [0664-strange-printer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -516,4 +517,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1511-count-number-of-teams) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
