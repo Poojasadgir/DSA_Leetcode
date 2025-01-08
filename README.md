@@ -345,6 +345,7 @@
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1542-consecutive-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -376,6 +377,7 @@
 | [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
