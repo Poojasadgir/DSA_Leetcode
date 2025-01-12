@@ -224,6 +224,7 @@
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -309,6 +310,7 @@
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1511-count-number-of-teams) |
@@ -340,6 +342,7 @@
 | [0541-reverse-string-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0812-rotate-string) |
@@ -380,6 +383,7 @@
 | [0020-valid-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
