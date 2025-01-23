@@ -334,6 +334,7 @@
 | [0014-longest-common-prefix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0125-valid-palindrome) |
@@ -383,6 +384,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
