@@ -155,6 +155,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -457,6 +458,7 @@
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -485,6 +487,7 @@
 | [0547-number-of-provinces](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -492,11 +495,13 @@
 | [0207-course-schedule](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
