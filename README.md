@@ -372,6 +372,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -404,6 +405,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -467,6 +469,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0657-robot-return-to-origin) |
+| [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
 ## Game Theory
 |  |
 | ------- |
