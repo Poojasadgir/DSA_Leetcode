@@ -134,6 +134,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -316,6 +317,7 @@
 | [0072-edit-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
