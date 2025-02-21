@@ -148,6 +148,7 @@
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
@@ -221,6 +222,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -276,6 +278,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -298,6 +301,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -432,6 +436,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -449,6 +454,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
