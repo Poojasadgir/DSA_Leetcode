@@ -349,6 +349,7 @@
 | [0013-roman-to-integer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0072-edit-distance) |
