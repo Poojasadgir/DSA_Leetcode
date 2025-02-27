@@ -170,6 +170,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1945-finding-the-users-active-minutes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1945-finding-the-users-active-minutes) |
@@ -332,6 +333,7 @@
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1511-count-number-of-teams) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Prefix Sum
