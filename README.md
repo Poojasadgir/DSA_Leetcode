@@ -330,6 +330,7 @@
 | [0198-house-robber](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -368,6 +369,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0664-strange-printer) |
