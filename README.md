@@ -168,6 +168,7 @@
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1511-count-number-of-teams) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -464,6 +465,7 @@
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
@@ -480,6 +482,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -581,6 +584,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Memoization
 |  |
 | ------- |
@@ -612,4 +616,12 @@
 | ------- |
 | [0686-repeated-string-match](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0812-rotate-string) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
