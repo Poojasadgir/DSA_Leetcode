@@ -240,6 +240,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -263,6 +264,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -311,6 +313,7 @@
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -379,6 +382,7 @@
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -440,6 +444,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -451,6 +456,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
