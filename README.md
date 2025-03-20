@@ -148,6 +148,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -275,6 +276,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0768-partition-labels) |
@@ -449,6 +451,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -539,6 +542,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Quickselect
 |  |
