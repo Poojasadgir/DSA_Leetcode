@@ -142,6 +142,7 @@
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0312-burst-balloons) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -297,6 +298,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -347,6 +349,7 @@
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
