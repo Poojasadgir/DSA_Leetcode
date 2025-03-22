@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0070-climbing-stairs) |
@@ -510,6 +511,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
