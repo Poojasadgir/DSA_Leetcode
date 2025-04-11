@@ -218,6 +218,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2383-add-two-integers) |
+| [2998-count-symmetric-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -675,4 +676,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
