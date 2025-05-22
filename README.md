@@ -184,6 +184,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1945-finding-the-users-active-minutes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -381,6 +382,7 @@
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## String
 |  |
@@ -484,6 +486,7 @@
 | [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Heap (Priority Queue)
 |  |
