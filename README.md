@@ -213,6 +213,7 @@
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
@@ -407,6 +408,7 @@
 | [0205-isomorphic-strings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -552,6 +554,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
 ## Game Theory
