@@ -195,6 +195,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2690-house-robber-iv](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2690-house-robber-iv) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -326,6 +327,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2690-house-robber-iv](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2690-house-robber-iv) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
@@ -351,6 +353,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## String
 |  |
 | ------- |
