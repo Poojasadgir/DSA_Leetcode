@@ -1,27 +1,28 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int n=s.length();
-        int m=2*n+3;
-        char sChars[]=new char[m];
-        sChars[0]='@';
-        sChars[m-1]='&';
-        int t=1;
-        for(int i=0;i<n;i++){
-            sChars[t++]='#';
-            sChars[t++]=s.charAt(i);
-        }
-        sChars[t]='#';
-        int maxLen=1,start=0;
-        int p[]=new int[m];
-        for(int i=1;i<m-1;i++){
-            while (sChars[i + p[i] + 1] == sChars[i - p[i] - 1]) {
-               p[i]++;
-            }
-            if(p[i]>maxLen){
-                start=(i-p[i])/2;
-                maxLen=p[i];
+        int n = s.length();
+        String MaxP = "";
+        int maxLen = 1, start = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) { 
+                int flag = 1;
+                for (int k = 0; k < (j - i + 1) / 2; k++) { 
+                    if (s.charAt(i + k) != s.charAt(j - k)) {
+                        flag = 0;
+                        break;
+                    }
+                }
+                if (flag != 0 && (j - i + 1) > maxLen) {
+                    start = i;
+                    maxLen = j - i + 1;
+                }
             }
         }
-        return s.substring(start, start + maxLen);
+        for (int x = start; x < start + maxLen; x++) {
+            MaxP += s.charAt(x);
+        }
+
+        return MaxP;
     }
 }
