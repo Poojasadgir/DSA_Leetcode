@@ -126,6 +126,7 @@
 | [0056-merge-intervals](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
@@ -240,6 +241,7 @@
 | [0015-3sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
@@ -349,6 +351,7 @@
 | [0015-3sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0169-majority-element) |
