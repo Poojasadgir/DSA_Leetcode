@@ -135,6 +135,7 @@
 | [0137-single-number-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
@@ -289,6 +290,7 @@
 | [0146-lru-cache](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -346,6 +348,7 @@
 | [0056-merge-intervals](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -500,10 +503,12 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
