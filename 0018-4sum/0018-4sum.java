@@ -16,12 +16,7 @@ class Solution {
                 }else if(sum>target){
                     l--;
                 }else{
-                    List<Integer>quad=new ArrayList<>();
-                    quad.add(nums[i]);
-                    quad.add(nums[j]);
-                    quad.add(nums[k]);
-                    quad.add(nums[l]);
-                    list.add(quad);
+                    list.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));
                     k++;
                     l--;  
                     while(k<l && nums[k]==nums[k-1]) k++;
