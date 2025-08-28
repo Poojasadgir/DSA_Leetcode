@@ -457,6 +457,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0146-lru-cache) |
@@ -496,6 +497,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -512,6 +514,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -713,4 +716,8 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2998-count-symmetric-integers) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
