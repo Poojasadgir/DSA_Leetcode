@@ -203,6 +203,7 @@
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -230,6 +231,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
@@ -579,6 +582,7 @@
 | [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
