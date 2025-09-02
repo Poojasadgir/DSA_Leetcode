@@ -161,6 +161,7 @@
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -306,6 +307,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
@@ -409,6 +411,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
