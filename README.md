@@ -119,6 +119,7 @@
 | [0035-search-insert-position](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
@@ -212,6 +213,7 @@
 | [0012-integer-to-roman](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0070-climbing-stairs) |
@@ -574,6 +576,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
