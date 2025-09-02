@@ -166,6 +166,7 @@
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
@@ -339,6 +340,7 @@
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
