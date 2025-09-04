@@ -5,8 +5,8 @@ class Solution {
         int res=-1;
         char temp[]=num.toCharArray();
         for(int i=n-1;i>=0;i--){
-            int nums=temp[i]-'a';
-            if(nums%2==0){
+             int digit = temp[i] - '0';   
+            if (digit % 2 != 0) { 
                res=i;
                 break;
             }
@@ -15,5 +15,5 @@ class Solution {
           ans+=temp[i];
         }
         return ans;
-    } 
+    }
 }
