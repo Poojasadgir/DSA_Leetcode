@@ -126,6 +126,7 @@
 | [0055-jump-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -291,6 +292,7 @@
 | [0013-roman-to-integer](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
@@ -583,6 +585,7 @@
 | [0037-sudoku-solver](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0200-number-of-islands) |
