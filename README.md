@@ -196,6 +196,7 @@
 | [1945-finding-the-users-active-minutes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
+| [2047-find-a-peak-element-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -353,6 +354,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2690-house-robber-iv](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -598,6 +600,7 @@
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
