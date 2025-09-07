@@ -1,38 +1,19 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-        Map<Character, Integer> freq = new HashMap<>();
-        for (char task : tasks) {
-            freq.put(task, freq.getOrDefault(task, 0) + 1);
+        int[] count = new int[26];
+        for (int i = 0; i < tasks.length; i++) {
+            count[tasks[i] - 'A']++;
         }
-        PriorityQueue<Map.Entry<Character, Integer>> maxHeap =
-                new PriorityQueue<>((a, b) -> b.getValue() - a.getValue());
-        maxHeap.addAll(freq.entrySet());
 
-        int time = 0;
-        
-        while (!maxHeap.isEmpty()) {
-            List<Map.Entry<Character, Integer>> tempList = new ArrayList<>();
-            int cycle = n + 1; 
+        Arrays.sort(count);
+        int maxFreq = count[25];
+        int idle = (maxFreq - 1) * n;
 
-            while (cycle > 0 && !maxHeap.isEmpty()) {
-                Map.Entry<Character, Integer> entry = maxHeap.poll();
-                entry.setValue(entry.getValue() - 1);
-                tempList.add(entry);
-                cycle--;
-                time++;
-            }
-
-            for (Map.Entry<Character, Integer> entry : tempList) {
-                if (entry.getValue() > 0) {
-                    maxHeap.offer(entry);
-                }
-            }
-
-            if (!maxHeap.isEmpty()) {
-                time += cycle; 
-            }
+        for (int i = 24; i >= 0; i--) {
+            idle -= Math.min(maxFreq - 1, count[i]);
         }
-        
-        return time;
+
+        idle = Math.max(0, idle);
+        return tasks.length + idle;
     }
 }
