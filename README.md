@@ -230,6 +230,7 @@
 | [0189-rotate-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0412-fizz-buzz) |
