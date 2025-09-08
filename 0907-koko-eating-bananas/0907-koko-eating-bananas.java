@@ -1,40 +1,29 @@
-import java.util.Arrays;
 class Solution {
-    public boolean check(long k, int[] b, long h) {
-        long sum = 0;
-        for (int i = 0; i < b.length; i++) {
-            if (b[i] % k == 0) {
-                sum += (b[i] / k);
-            } else {
-                sum += (b[i] / k) + 1;
-            }
+    static int findMax(int[] v) {
+        int maxi = Integer.MIN_VALUE;
+        for (int val : v) {
+            maxi = Math.max(maxi, val);
         }
-        return sum <= h;
+        return maxi;
     }
-
-    public int minEatingSpeed(int[] b, int h) {
-        long tr = 0;
-        for (int i = 0; i < b.length; i++) {
-            tr = Math.max(tr, (long) b[i]);
+    private long calculateTotalHours(int[] v, int hourly) {
+        long totalH = 0L;
+        for (int val : v) {
+            totalH += ( (long) val + hourly - 1 ) / hourly;
         }
-
-        long low = 1, high = tr, u = 1, answer = -1;
-        while (low <= high && u == 1) {
-            long mid = (low + high) / 2;
-            if (check(mid, b, h) == false) {
-                low = mid + 1;
+        return totalH;
+    }
+    public int minEatingSpeed(int[] piles, int h) {
+        int low = 1, high = findMax(piles);
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            long totalH = calculateTotalHours(piles, mid);
+            if (totalH <= (long) h) {
+                high = mid-1;      
             } else {
-                if (mid == 1) {
-                    answer = 1;
-                    u = 0;
-                } else if (check(mid - 1, b, h) == false) {
-                    answer = mid;
-                    u = 0;
-                } else {
-                    high = mid - 1;
-                }
+                low = mid + 1;  
             }
         }
-        return (int) answer;
+        return low;
     }
 }
