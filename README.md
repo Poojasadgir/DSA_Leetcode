@@ -278,6 +278,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -509,6 +510,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
