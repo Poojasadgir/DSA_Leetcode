@@ -176,6 +176,7 @@
 | [0792-binary-search](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
@@ -335,6 +336,7 @@
 | [0692-top-k-frequent-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0778-reorganize-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1483-rank-teams-by-votes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -444,6 +446,7 @@
 | [0238-product-of-array-except-self](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -606,6 +609,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0966-binary-subarrays-with-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bit Manipulation
