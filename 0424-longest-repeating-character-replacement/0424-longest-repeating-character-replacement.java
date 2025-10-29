@@ -10,7 +10,7 @@ class Solution {
 
             maxFreq = Math.max(maxFreq, hash[s.charAt(right) - 'A']);
 
-            while ((right - left + 1) - maxFreq > k) {
+            if ((right - left + 1) - maxFreq > k) {
                 hash[s.charAt(left) - 'A']--;
                 left++;
             }
