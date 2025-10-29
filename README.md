@@ -342,6 +342,7 @@
 | [0355-design-twitter](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0525-contiguous-array) |
@@ -498,6 +499,7 @@
 | [0227-basic-calculator-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -640,6 +642,7 @@
 | [0076-minimum-window-substring](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
