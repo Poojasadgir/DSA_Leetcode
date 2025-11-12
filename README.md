@@ -366,6 +366,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
@@ -466,6 +467,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
@@ -644,6 +647,7 @@
 | [0216-combination-sum-iii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Sliding Window
 |  |
 | ------- |
