@@ -184,6 +184,7 @@
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
@@ -699,6 +700,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 | [1677-matrix-diagonal-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -743,6 +745,7 @@
 | [0733-flood-fill](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
