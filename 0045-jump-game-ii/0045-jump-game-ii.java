@@ -1,10 +1,8 @@
 class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
-        if (n == 1) return 0;
-
-        if (nums[0] == 0) return -1;
-        
+        if(n==1 && nums[0]==0)return 0;
+        if (n == 0 || nums[0] == 0) return -1; 
         int jumps = 0;      
         int currentEnd = 0; 
         int farthest = 0;   
