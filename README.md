@@ -212,6 +212,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1945-finding-the-users-active-minutes](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1983-maximum-population-year](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1983-maximum-population-year) |
@@ -598,6 +599,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
@@ -731,6 +733,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Quickselect
 |  |
