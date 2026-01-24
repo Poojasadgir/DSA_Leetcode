@@ -161,6 +161,7 @@
 | [0312-burst-balloons](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0455-assign-cookies) |
@@ -459,6 +460,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0518-coin-change-ii) |
