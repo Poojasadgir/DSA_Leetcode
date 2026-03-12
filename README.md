@@ -234,6 +234,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -379,6 +380,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
@@ -416,6 +418,7 @@
 | [2690-house-robber-iv](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 ## Sorting
 |  |
 | ------- |
@@ -450,6 +453,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -555,6 +559,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3447-clear-digits) |
