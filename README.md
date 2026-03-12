@@ -181,6 +181,7 @@
 | [0733-flood-fill](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0792-binary-search) |
+| [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0876-hand-of-straights](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -257,6 +258,7 @@
 | [0415-add-strings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1013-fibonacci-number](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -695,6 +697,7 @@
 | [0342-power-of-four](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Matrix
 |  |
@@ -730,6 +733,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1240-stone-game-ii](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1240-stone-game-ii) |
 ## Monotonic Stack
 |  |
@@ -893,4 +897,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0561-array-partition) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
