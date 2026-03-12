@@ -234,6 +234,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -273,6 +274,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3830-find-closest-person](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
@@ -330,6 +332,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -911,4 +914,8 @@
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
+## Number Theory
+|  |
+| ------- |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 <!---LeetCode Topics End-->
