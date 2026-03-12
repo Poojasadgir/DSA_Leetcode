@@ -233,6 +233,7 @@
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2741-special-permutations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2741-special-permutations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3143-maximum-points-inside-the-square](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/3143-maximum-points-inside-the-square) |
@@ -490,6 +491,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2741-special-permutations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2741-special-permutations) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Prefix Sum
 |  |
@@ -712,6 +714,7 @@
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0810-chalkboard-xor-game](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1940-maximum-xor-for-each-query](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2741-special-permutations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2741-special-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -859,6 +862,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/0526-beautiful-arrangement) |
+| [2741-special-permutations](https://github.com/Poojasadgir/DSA_Leetcode/tree/master/2741-special-permutations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
